@@ -1,0 +1,67 @@
+/*======= index.html =======*/
+#page1 header {height: 604px;}
+#page1 .col-1 {width: 279px;}
+#page1 .col-2 {width: 650px; margin-right: -6px;}
+#page1 .col-2 .col-1 {width: 125px;}
+#page1 .col-2 .col-2 {width: 127px;}
+#page1 .col-2 .col-3 {width: 312px;}
+
+#page1 footer .col-1 {width: 156px; margin-right: 20px;}
+#page1 footer .col-2 {width: 159px; margin-right: 20px;}
+#page1 footer .col-3 {width: 430px; margin-right: 20px;}
+#page1 footer .col-4 {width: 175px;}
+/*======= index-1.html =======*/
+#page2 .col-1 {width: 279px;}
+#page2 .col-2 {width: 646px;}
+#page2 .col-2 .col-1 {width: 100%;}
+#page2 footer .col-1 {width: 156px; margin-right: 20px;}
+#page2 footer .col-2 {width: 159px; margin-right: 20px;}
+#page2 footer .col-3 {width: 430px; margin-right: 20px;}
+#page2 footer .col-4 {width: 175px;}
+
+/*======= index-2.html =======*/
+#page3 .col-1 {width: 279px;}
+#page3 .col-2 {width: 646px;}
+#page3 .col-2 .col-1 {width: 314px;}
+#page3 .col-2 .col-2 {width: 311px;}
+#page3 footer .col-1 {width: 156px; margin-right: 20px;}
+#page3 footer .col-2 {width: 159px; margin-right: 20px;}
+#page3 footer .col-3 {width: 430px; margin-right: 20px;}
+#page3 footer .col-4 {width: 175px;}
+
+/*======= index-3.html =======*/
+#page4 .col-1 {width: 279px;}
+#page4 .col-2 {width: 646px;}
+#page4 .col-2 .col-1 {width: 177px;}
+#page4 footer .col-1 {width: 156px; margin-right: 20px;}
+#page4 footer .col-2 {width: 159px; margin-right: 20px;}
+#page4 footer .col-3 {width: 430px; margin-right: 20px;}
+#page4 footer .col-4 {width: 175px;}
+
+/*======= index-4.html =======*/
+#page5 .col-1 {width: 279px;}
+#page5 .col-2 {width: 650px; margin-right: -6px;}
+#page5 .col-2 .col-1 {width: 125px;}
+#page5 .col-2 .col-2 {width: 127px;}
+#page5 .col-2 .col-3 {width: 312px;}
+#page5 footer .col-1 {width: 156px; margin-right: 20px;}
+#page5 footer .col-2 {width: 159px; margin-right: 20px;}
+#page5 footer .col-3 {width: 430px; margin-right: 20px;}
+#page5 footer .col-4 {width: 175px;}
+
+/*======= index-5.html =======*/
+#page6 .col-1 {width: 279px;}
+#page6 .col-2 {width: 646px;}
+#page6 .col-2 .col-1 {width: 177px;}
+#page6 footer .col-1 {width: 156px; margin-right: 20px;}
+#page6 footer .col-2 {width: 159px; margin-right: 20px;}
+#page6 footer .col-3 {width: 430px; margin-right: 20px;}
+#page6 footer .col-4 {width: 175px;}
+
+/*======= index-6.html =======*/
+#page7 footer .col-1 {width: 156px; margin-right: 20px;}
+#page7 footer .col-2 {width: 159px; margin-right: 20px;}
+#page7 footer .col-3 {width: 430px; margin-right: 20px;}
+#page7 footer .col-4 {width: 175px;}
+
+
